@@ -12,7 +12,7 @@
 		<nav class="mui-bar mui-bar-tab">
 			<router-link class="mui-tab-item" to="/home">
 				<span class="mui-icon mui-icon-star"></span>
-				<span class="mui-tab-label">新车流程</span>
+				<span class="mui-tab-label">新车流程0</span>
 			</router-link >
 			<router-link  class="mui-tab-item" to="/member">
 				<span class="mui-icon mui-icon-star"></span>
